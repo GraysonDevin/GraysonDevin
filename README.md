@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GraysonDevin
 - 👀 I’m interested in growing and learning
-- 🌱 I’m currently learning JavaScript, PHP, and SQL
+- 🌱 I’m currently learning JavaScript, React, and SAS
 - 💞️ I’m looking to collaborate on projects that challenge me
 - 📫 How to reach me hovasg@gmail.com
 
